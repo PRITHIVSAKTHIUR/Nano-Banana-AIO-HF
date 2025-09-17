@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+:root {
+  --background: #f3f4f6; /* Tailwind gray-100 */
+  --foreground: #171717;
+}
+
+
+
+body {
+  color: var(--foreground);
+  font-family: 'Outfit', sans-serif;
+  background-color: var(--background);
+}
